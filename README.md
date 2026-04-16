@@ -21,6 +21,6 @@
 Лактюшин Евгений
 Devops-инженер
 
-
+![HW1p](https://github.com//Satillis/ASTON-DevOps-/blob/main/DP_hw1.png)
 
 Последнее изменение: вторник, 22 июля 2025, 17:31
