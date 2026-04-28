@@ -20,9 +20,11 @@ do
 done
 ```
 - Сохраните файл:
-    Ctrl + O
-    Enter
-    Vtrl + X
+```
+Ctrl + O
+Enter
+Ctrl + X
+```
 
 ## 2. Сделать скрипт исполняемым
 ```bash
