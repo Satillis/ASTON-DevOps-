@@ -37,6 +37,6 @@ else
 fi
 ```
 
-###Пример использования
+Пример использования
 ```bash
 ./check_url.sh http://app.local
